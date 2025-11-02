@@ -31,8 +31,7 @@ It supports:
 
 ## 📊 Example Output
 
-![Equity Curves](<img width="800" height="400" alt="example" src="https://github.com/user-attachments/assets/d1622801-1891-4664-b7d4-6ff7ed55a34d" />
-)
+![Equity Curves]([example.pdf](https://github.com/user-attachments/files/23293527/example.pdf))
 
 ---
 
